@@ -56,7 +56,7 @@ int main(){
 
     while(true){
         system("cls");
-        cout << "moje slowo: "<< game_key << "\n";
+       
         cout << "Twoje slowo: "<< actual_key << "\n";
 
         cout <<"Uzyte litery: "; 
@@ -75,7 +75,7 @@ int main(){
         }
         if(actual_key == game_key){
             system("cls");
-        cout << "moje slowo: "<< game_key << "\n";
+
         cout << "Twoje slowo: "<< actual_key << "\n";
 
         cout <<"Uzyte litery: "; 
