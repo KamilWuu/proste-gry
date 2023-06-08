@@ -1,0 +1,9 @@
+1 Gra w zgadywanie liczby: Stwórz prostą grę, w której komputer losuje liczbę, a gracz próbuje ją odgadnąć. Komputer powinien dawać wskazówki, czy liczba jest za mała czy za duża, a gra kończy się, gdy gracz odgadnie poprawnie.
+
+2 Kółko i krzyżyk: Napisz grę, w której dwóch graczy (lub gracz kontra komputer) rywalizuje ze sobą na planszy 3x3. Gracze na zmianę stawiają swoje znaki (kółko lub krzyżyk) na wolnych polach, a wygrywa ten, kto pierwszy utworzy linię, kolumnę lub przekątną z trzech swoich znaków.
+
+3 Gra w wisielca: Stwórz grę, w której gracz musi odgadnąć ukryte słowo, zgadując pojedyncze litery. Gracz ma ograniczoną liczbę prób, a na każdym etapie gry wyświetlane jest zarysowane wisielca. Gracz wygrywa, jeśli odgadnie słowo przed zarysowaniem całego wisielca.
+
+4 Platformówka: Wykorzystaj bibliotekę graficzną (na przykład SFML lub SDL) do stworzenia prostej platformówki. Możesz napisać kod obsługujący poruszanie postacią, skoki, kolizje z przeszkodami i zbieranie punktów.
+
+5 Gra w Pong: Napisz grę, w której dwaj gracze rywalizują ze sobą w ping-ponga. Gracze poruszają paletkami w pionie, starając się odbijać piłeczkę i zdobywać punkty. Gra kończy się, gdy jeden z graczy osiągnie określoną liczbę punktów.
